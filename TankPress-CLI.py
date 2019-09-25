@@ -15,6 +15,7 @@ import matplotlib.pyplot as plt
 # math
 # csv
 # os
+# pillow
 #
 # Symbols with Descriptions and Units
 # Symbol    # Unit              # Description
