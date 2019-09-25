@@ -8,6 +8,7 @@ Requirements
 ------------
 Python 3
 matplotlib 2+ (and dependencies)
+pillow
 
 Note: To install matplotlib and its dependencies on Windows, run the Command Prompt as Administrator and
 enter the following: pip install matplotlib. This will install the most current version of matplotlib and
