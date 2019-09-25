@@ -7,8 +7,9 @@ Version 2019.06.18.1620
 
 Requirements
 ------------
-Python 3
-matplotlib 2+ (and dependencies)
+Python 3, 
+matplotlib 2+ (and dependencies), 
+pillow
 
 Note: To install matplotlib and its dependencies on Windows, run the Command Prompt as Administrator and
 enter the following: pip install matplotlib. This will install the most current version of matplotlib and
@@ -24,14 +25,14 @@ Initial Conditions and Constraints
 ----------------------------------
 Pipe
 ----
-p1 > 0 psi
-d1 > 0 in.
+p1 > 0 psi, 
+d1 > 0 in., 
 T1 > -459.67 °F
 
 Tank
 ----
-p2 > 0 psi
-V2 > 0 cu. ft
+p2 > 0 psi, 
+V2 > 0 cu. ft, 
 T2 > -459.67 °F
 
 Time Step
